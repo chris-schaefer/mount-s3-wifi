@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=mount-s3-drives
+Type=Application
+Exec=~/.aws/mount-s3-drives.sh
+Comment=Mount S3 buckets
+X-GNOME-Autostart-enabled=true
